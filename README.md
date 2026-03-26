@@ -7,7 +7,7 @@
 - 🛡️ **Cybersecurity:** Focused on Network Pentesting and Vulnerability Assessment.
 - 🏗️ **Infrastructure:** Experienced in managing secure digital environments and servers.
 - 🐍 **Automation:** Building custom security tools and scripts using Python.
-- 🔭 Currently working on: Advanced automated reconnaissance frameworks.
+- 🔭 **Currently working on:** Advanced automated reconnaissance frameworks.
 
 ---
 
@@ -15,12 +15,6 @@
 - **Security:** Nmap, Metasploit, Burp Suite, Wireshark, SQLmap.
 - **Languages:** Python (Security Scripting), Bash, SQL.
 - **Infrastructure:** Linux/Windows Servers, Docker, Networking.
-
----
-
-## 📊 My GitHub Stats
-![Badre's GitHub stats](https://github-readme-stats.vercel.app/api?username=UKNJHB&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UKNJHB&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
